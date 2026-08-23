@@ -27,7 +27,7 @@ export const PRICING_TIERS = {
     description: "Unlock deeper historical insights and conversations",
     features: [
       "50 Ask History queries per day",
-      "Access all 500+ historical figures",
+      "Access all 450+ historical figures",
       "Unlimited figure conversations",
       "Interactive timeline deep-dives",
       "Full lessons library access",

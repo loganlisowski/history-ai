@@ -7,7 +7,7 @@ import SoarinBackground from "@/components/features/soarin-background";
 export const metadata: Metadata = {
   title: "History.ai - AI Historical Wisdom for Modern Problems",
   description:
-    "Describe any modern challenge and our AI finds historical parallels, cites real sources, and extracts timeless lessons. Chat with 500+ historical figures. Learn from 5,000 years of human experience.",
+    "Describe any modern challenge and our AI finds historical parallels, cites real sources, and extracts timeless lessons. Chat with 450+ historical figures. Learn from 5,000 years of human experience.",
   keywords:
     "history, AI, historical figures, leadership lessons, strategy, philosophy, timelines, education",
   openGraph: {

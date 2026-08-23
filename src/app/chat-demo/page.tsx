@@ -343,7 +343,7 @@ export default function ChatDemoPage() {
                       Demo Limit Reached
                     </h3>
                     <p className="font-body text-sm text-white/60 mb-4">
-                      Sign up for unlimited conversations with 500+ historical
+                      Sign up for unlimited conversations with 450+ historical
                       figures.
                     </p>
                     <Link href="/signup">
@@ -407,7 +407,7 @@ export default function ChatDemoPage() {
           {/* Bottom CTA */}
           <div className="text-center mt-8">
             <p className="font-body text-sm text-white/50 mb-3">
-              Want deeper conversations? Chat with 500+ figures across all eras
+              Want deeper conversations? Chat with 450+ figures across all eras
               of history.
             </p>
             <Link href="/figures">

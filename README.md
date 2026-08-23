@@ -1,4 +1,4 @@
-# History.ai — AI Historical Wisdom for Modern Problems
+# History.ai: AI Historical Wisdom for Modern Problems
 
 A comprehensive Next.js 14 application that combines AI technology with historical scholarship to help users learn from humanity's collective experience.
 
@@ -6,7 +6,7 @@ A comprehensive Next.js 14 application that combines AI technology with historic
 
 ### Core Features
 - **Ask History Engine** — Describe any modern problem and get historical parallels with real sources, dates, and actionable lessons
-- **500+ Historical Figure Profiles** — Detailed profiles with "Ask Them" AI chat feature that simulates each figure's voice and personality
+- **450+ Historical Figure Profiles**: Detailed profiles with an AI chat experience for exploring each figure's ideas and historical context
 - **Interactive Timelines** — Zoomable timelines spanning 5,000 years with AI-powered analysis for each event
 - **Daily History Digest** — Curated historical facts with modern relevance, shareable social cards
 - **Lessons Library** — In-depth lessons on Leadership, War & Strategy, Economics, Innovation, Philosophy, and more
@@ -15,7 +15,7 @@ A comprehensive Next.js 14 application that combines AI technology with historic
 - **SEO Optimized** — Every figure profile and lesson has custom meta tags
 
 ### Historical Data
-- **23 detailed historical figure profiles** including Marcus Aurelius, Cleopatra, Leonardo da Vinci, Sun Tzu, Ada Lovelace, Julius Caesar, Marie Curie, Alexander the Great, Nikola Tesla, Napoleon, Harriet Tubman, Genghis Khan, Einstein, Elizabeth I, Gandhi, Churchill, Frida Kahlo, Confucius, Lincoln, Catherine the Great, Galileo, Frederick Douglass, and Sappho
+- **451 historical figure profiles** spanning the ancient world through the late 20th century
 - **18 timeline events** across 6 topics
 - **6 in-depth lessons** with historical examples and modern applications
 - **5 daily digest entries** with shareable content
@@ -27,7 +27,7 @@ A comprehensive Next.js 14 application that combines AI technology with historic
 - **Styling:** Tailwind CSS + Custom Theme (Parchment/Sepia scholarly design)
 - **UI Components:** Shadcn/UI + Radix UI primitives
 - **Animations:** Framer Motion
-- **AI:** OpenAI GPT-4 Turbo (with prepared fallback responses)
+- **AI:** Anthropic Claude, with prepared fallback responses where available
 - **Database:** PostgreSQL (Supabase) + Pinecone (vector DB)
 - **Auth:** Supabase Auth
 - **Payments:** Stripe (3 tiers)
@@ -123,3 +123,7 @@ src/
 ├── types/                 # TypeScript types
 └── hooks/                 # Custom React hooks
 ```
+
+## License
+
+History.ai is available under the [MIT License](LICENSE).

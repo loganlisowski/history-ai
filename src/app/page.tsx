@@ -45,7 +45,7 @@ const features = [
   },
   {
     icon: Users,
-    title: "500+ Historical Figures",
+    title: "450+ Historical Figures",
     description:
       'Chat with AI simulations of history\'s greatest minds. Ask Marcus Aurelius about leadership or Cleopatra about diplomacy.',
     href: "/figures",

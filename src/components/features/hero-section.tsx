@@ -56,7 +56,7 @@ export default function HeroSection() {
             className="font-body text-lg md:text-xl text-white/80 max-w-2xl mx-auto mb-10 leading-relaxed"
           >
             Describe any modern challenge and our AI finds the historical parallels, cites the sources,
-            and extracts the timeless lessons. Chat with 500+ historical figures. Learn from 5,000 years
+            and extracts the timeless lessons. Chat with 450+ historical figures. Learn from 5,000 years
             of human experience.
           </motion.p>
 
@@ -90,7 +90,7 @@ export default function HeroSection() {
             className="grid grid-cols-2 md:grid-cols-4 gap-8 max-w-3xl mx-auto"
           >
             {[
-              { value: "500+", label: "Historical Figures" },
+              { value: "450+", label: "Historical Figures" },
               { value: "5,000", label: "Years of History" },
               { value: "10K+", label: "Lessons Extracted" },
               { value: "50K+", label: "Conversations" },
